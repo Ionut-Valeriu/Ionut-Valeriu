@@ -1,12 +1,12 @@
 ## Hi, my name is Ionut 👋
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ionut-Valeriu&layout=compact&theme=tokyonight)
-
+<!--
 ### 🛠️ Tech Stack
 - 🔹 C++ | Python | SQL
 - 🔹 OpenGL | SDL | Raylib
 - 🔹 Git | Linux | LaTeX
-
+-->
 <div align = "center">
   <h1> 📫 Contact Me </h1>
   <a href="https://www.linkedin.com/in/valeriu-ionut-tablet/" target="_blank">
